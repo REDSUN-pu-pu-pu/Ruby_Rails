@@ -1,0 +1,13 @@
+<% provide(:title, 'Contact') %>
+
+<% 
+  title_parts = yield(:title).split(' ')
+  page_title = title_parts[0]
+  text_color = title_parts[1] || 'black'
+%>
+
+<h1 class="text-<%= text_color %>">Contact</h1>
+<p class="text-<%= text_color %>">
+  Contact the Ruby on Rails Tutorial about the sample app at the
+  <a href="http://www.railstutorial.org/#contact">contact page</a>.
+</p>
