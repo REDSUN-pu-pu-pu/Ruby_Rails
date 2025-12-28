@@ -1,0 +1,30 @@
+[submodule "helloApp"]
+	path = helloApp
+https://github.com/REDSUN-pu-pu-pu/Ruby_Rails.git
+	url = https://github.com/REDSUN-pu-pu-pu/helloApp.git
+[submodule "twoApp"]
+	path = twoApp
+	url = https://github.com/REDSUN-pu-pu-pu/twoApp.git
+[submodule "threeApp"]
+	path = threeApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+[submodule "fourApp"]
+	path = fourApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+	branch = lab4
+[submodule "fiveApp"]
+	path = fiveApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+	branch = lab5
+[submodule "sixApp"]
+	path = sixApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+	branch = lab6
+[submodule "sevenApp"]
+	path = sevenApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+	branch = lab7
+[submodule "eightApp"]
+	path = eightApp
+	url = https://github.com/REDSUN-pu-pu-pu/threeApp.git
+	branch = lab8
